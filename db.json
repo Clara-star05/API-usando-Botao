@@ -1,0 +1,36 @@
+{
+    "name": "BTS",
+    "describe": "ARIRANG (2026)",
+    "style": "K-POP",
+    "price": "289,90",
+    "image": "<img src='img/images.webp' width='300px'>",
+    "button": "<button>Comprar</button>",
+
+    "name2": "BTS",
+    "describe2": "Love Yourself 結 'Answer",
+    "style2": "K-POP",
+    "price2": "370.90",
+    "image2": "<img src='img/LY.webp' width='300px'>",
+    "button2": "<button>Comprar</button>" ,
+
+    "name3": "BTS",
+    "describe3": "Map of the Soul",
+    "style3": "K-POP",
+    "price3": "370.90",
+    "image3": "<img src='img/BTS_-_Map_of_the_Soul_7.png' width='300px'>",
+    "button3": "<button>Comprar</button>",
+
+    "name4": "BTS",
+    "describe4": "BE (2020)",
+    "style4": "K-POP",
+    "price4": "380.90",
+    "image4": "<img src='img/be.jng.jpg'' width='300px'>",
+    "button4": "<button>Comprar</button>" ,
+
+    "name5": "BTS",
+    "describe5": "Proof (2022)",
+    "style5": "K-POP",
+    "price5": "270.90",
+    "image5": "<img src='img/Proof (2022).jpg' ' width='300px'>",
+    "button5": "<button>Comprar</button>" 
+}
